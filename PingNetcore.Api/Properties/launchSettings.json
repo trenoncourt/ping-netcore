@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PingNetcore.Api": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:38565"
+    }
+  }
+}

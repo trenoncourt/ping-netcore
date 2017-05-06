@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  pingnetcore.api:
+    image: pingnetcore.api
+    build:
+      context: ./PingNetcore.Api
+      dockerfile: Dockerfile
